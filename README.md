@@ -9,12 +9,12 @@ Alpha-Trim Filter
 
 Adaptive Med Filter
 1.	Max window size for the filter (Ws)
-2.	Max window size for the graph (Wmax
+2.	Max window size for the graph (Wmax)
 ///////////////////////////////////////////////////
 Implementation:
 1.	Alpha-trim filter using two methods:
 a.	Counting sort
-b.	Select Kth smallest/largest element (Sec.9.2)
+b.	Select Kth smallest/largest element.
 
 2.	Adaptive median filter using two methods:
 a.	Counting sort
