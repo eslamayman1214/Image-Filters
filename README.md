@@ -11,6 +11,8 @@ Adaptive Med Filter
 1.	Max window size for the filter (Ws)
 2.	Max window size for the graph (Wmax)
 ///////////////////////////////////////////////////
+
+
 Implementation:
 1.	Alpha-trim filter using two methods:
 a.	Counting sort
